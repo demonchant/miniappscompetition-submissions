@@ -6,7 +6,7 @@
 
 | Field | Value |
 | --- | --- |
-| Category | On/Off-Ramp |
+| Category | Earn |
 | Pricing | Free |
 | Team name | wizardskull |
 | Team members | gbeja toyosi, oladapo damilola |
